@@ -1,2 +1,2 @@
-# til
-Today I Learned
+# Today I Learned
+Inspired by https://github.com/jbranchaud/til
